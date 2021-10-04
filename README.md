@@ -131,3 +131,4 @@
 |100 |Xinyue Zhao| B6 | hediwg    |<>   |<>        |2021-09-28 |https://github.com/hediwg/individual_project.git
 |101 |Ray Park| A6 | raypark0309    |<>   |<>        |2021-09-28| https://github.com/raypark0309/individual_project
 | 102  | Adrien Duverger            | B13              |  adriendvrg                  | 2021-09-28    |  https://github.com/adriendvrg/Individual_assignement.git
+| 103  | Yiyue Hu      |  none             |  YiyueHu68          | 2021-09-28    | <https://github.com/YiyueHu68/individual_project.git>                     | <                            | 28/08/2021      |
